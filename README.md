@@ -60,13 +60,15 @@ The Star Wars theme is playing!
 
 ## Part E. Make your own timer
 
-**a. Make a short video showing how your timer works, and what happens when time is up!**
-
 My timer, the "Crazy Eights Facilit8r" is for timing the crazy eights sketching method. In crazy eights, the objective is to generate ideas rapidly by drawing 8 ideas in 8 minutes (sometimes 5 minutes). This timer takes the place of a person manually operating a stopwatch during the sketching. The timer counts down from 60 seconds eight times. It displays the round number and the number of seconds left. Using the speaker, a sound notification lets the user know when the round changes, and which round it is based on the number of tones played.
+
+![timer](img/timer.JPG)
 
 After the final round, the screen displays "TIME'S UP!!! Press to restart>" allowing the user to press the button to start the timer again. A red LED also turns on and a sound is played to indicate it is time to stop. 
 
-This video shows how the timer can be used during crazy eights sketching:
+**a. Make a short video showing how your timer works, and what happens when time is up!**
+
+This video shows how the timer can be used during crazy eights sketching, as demonstrated by an anonymous classmate:
 
 [Link to video](https://youtu.be/jYZqsLqe-ck)
 
